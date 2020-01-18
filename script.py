@@ -40,8 +40,6 @@ Referer_header = {
 site_info = [
     {"username": "20150005","password":"20150005","seat":"24629","start":"420","end":"1320"},
     {"username": "20150006","password":"20150006","seat":"24630","start":"420","end":"1320"},
-    {"username": "20165166","password":"20165166","seat":"24797","start":"420","end":"1320"},
-    {"username": "20166508","password":"20166508","seat":"24772","start":"420","end":"1320"}
 ]
 
 def login(username,password,seat,start,end):
